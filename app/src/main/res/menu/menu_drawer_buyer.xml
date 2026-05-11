@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/drawer_buyer_home"
+            android:icon="@drawable/ic_home_24"
+            android:title="@string/drawer_home" />
+        <item
+            android:id="@+id/drawer_buyer_catalog"
+            android:icon="@drawable/ic_view_grid_24"
+            android:title="@string/nav_catalog" />
+        <item
+            android:id="@+id/drawer_buyer_cart"
+            android:icon="@drawable/ic_cart_24"
+            android:title="@string/nav_cart" />
+        <item
+            android:id="@+id/drawer_buyer_payment"
+            android:icon="@drawable/ic_chart_24"
+            android:title="@string/payment_title" />
+        <item
+            android:id="@+id/drawer_buyer_profile"
+            android:icon="@drawable/ic_person_24"
+            android:title="@string/drawer_profile" />
+        <item
+            android:id="@+id/drawer_buyer_favorites"
+            android:icon="@drawable/ic_notifications_24"
+            android:title="@string/drawer_favorites" />
+        <item
+            android:id="@+id/drawer_buyer_notifications"
+            android:icon="@drawable/ic_notifications_24"
+            android:title="@string/drawer_notifications" />
+        <item
+            android:id="@+id/drawer_buyer_settings"
+            android:icon="@drawable/ic_dashboard_24"
+            android:title="@string/drawer_settings" />
+    </group>
+    <item android:title="">
+        <menu>
+            <item
+                android:id="@+id/drawer_buyer_logout"
+                android:icon="@drawable/ic_person_24"
+                android:title="@string/drawer_logout" />
+        </menu>
+    </item>
+</menu>

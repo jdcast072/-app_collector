@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="background">#FF121212</color>
+    <color name="surface">#FF1E1E1E</color>
+    <color name="surface_variant">#FF2C2C2C</color>
+    <color name="brand_orange">#FFFF6600</color>
+    <!-- Naranja más claro: ≥3:1 con blanco para iconos del FAB (accesibilidad). -->
+    <color name="fab_background_accessible">#FFFF8533</color>
+    <color name="brand_yellow">#FFFFC107</color>
+    <color name="brand_red">#FFE53935</color>
+    <color name="on_surface">#FFFFFFFF</color>
+    <color name="on_surface_muted">#FFB3B3B3</color>
+    <color name="outline">#FF404040</color>
+</resources>

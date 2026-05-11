@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/drawer_admin_dashboard"
+            android:icon="@drawable/ic_dashboard_24"
+            android:title="@string/drawer_home" />
+        <item
+            android:id="@+id/drawer_admin_users"
+            android:icon="@drawable/ic_people_24"
+            android:title="@string/drawer_admin_users" />
+        <item
+            android:id="@+id/drawer_admin_products"
+            android:icon="@drawable/ic_inventory_24"
+            android:title="@string/drawer_admin_products" />
+        <item
+            android:id="@+id/drawer_admin_sales"
+            android:icon="@drawable/ic_chart_24"
+            android:title="@string/drawer_admin_sales" />
+        <item
+            android:id="@+id/drawer_admin_settings"
+            android:icon="@drawable/ic_dashboard_24"
+            android:title="@string/drawer_settings" />
+    </group>
+    <item android:title="">
+        <menu>
+            <item
+                android:id="@+id/drawer_admin_logout"
+                android:icon="@drawable/ic_person_24"
+                android:title="@string/drawer_logout" />
+        </menu>
+    </item>
+</menu>
