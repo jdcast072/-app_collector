@@ -399,3 +399,7 @@ En versiones posteriores se solucionara y completara la parte del comprador. Se 
 | `proyecto/app/src/main/res/values/strings.xml` | Textos reutilizables |
 | `proyecto/app/src/main/res/values/colors.xml` | Paleta de colores |
 | `proyecto/app/src/main/res/drawable/` | Iconos y fondos |
+
+---
+## Vídeo explicativo de la tienda virtual - Collector Wheels
+[Tienda Virtual - Collector Wheels](https://youtu.be/VkVBiFWpMCs)
